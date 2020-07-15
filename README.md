@@ -11,7 +11,7 @@ I'm acting mentor on the [Coding Coach platform](https://mentors.codingcoach.io/
 
 Feel free to [reach out to me](mailto:joran@joranquinten.nl) for help, collabs or side hustles
 
-✨🚀✨👨🏻‍🚀✨
+✨🚀✨👨🏻‍🚀✨🖖✨
 
 ---
 
