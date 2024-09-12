@@ -1,15 +1,12 @@
 ### Nice to meet you! 👋
 
-You've found my profile. In short, I'm a frontend / JavaScript developer from the Eindhoven area in the Netherlands. I work for [Jumbo.com](https://jumbowerkt.nl/vacatures/front-end-developer) in **Silicon Veghel**, have a small business in freelance or contribute to open source. 
+You've found my profile. In short, I'm an Engineering Manager with a history (and fondness) of web development from the Eindhoven area in the Netherlands. I currently work for Jumbo.com in **Silicon Veghel**, have a small business in freelance or contribute to open source.
 
-Weapons of choice include but are not limited to:
-- Vue 💚
-- React 💙
-- Node 💛
+I'm a [public speaker](https://sessionize.com/Joranquinten/), [published](https://www.packtpub.com/en-us/product/building-real-world-web-applications-with-vuejs-3-9781837630394) author and program committee member for The JS Nation conferences in [Amsterdam](https://jsnation.com/) and [New York](https://jsnation.us/).
 
-I'm acting mentor on the [Coding Coach platform](https://mentors.codingcoach.io/?name=Joran+Quinten), love [photography](https://movingpixels.joranquinten.nl/), [running and road cycling](https://www.strava.com/athletes/11554004) and my family.
+As a coach/mentor find me on the [Coding Coach platform](https://mentors.codingcoach.io/?name=Joran+Quinten), lots of love for [road cycling](https://www.strava.com/athletes/11554004) and my family. 🫶
 
-Feel free to [reach out to me](mailto:joran@joranquinten.nl) for help, collabs or side hustles
+Feel free to [reach out to me](mailto:joran@joranquinten.nl) for help, collabs or side hustles, or visit [my website for more information](https://joranquinten.nl).
 
 ✨🚀✨👨🏻‍🚀✨🖖✨
 
